@@ -7,6 +7,9 @@
   border: none;
   margin-right: 17px;
   cursor: pointer;
+  background-repeat:no-repeat;
+  background-size: 125%;
+  background-position: center center;
 }
 
 .dice:nth-of-type(5n) {
@@ -15,4 +18,8 @@
 
 .held {
   background: #59E391;
+  background-blend-mode:lighten;
+  background-repeat:no-repeat;
+  background-size: 125%;
+  background-position: center center;
 }
