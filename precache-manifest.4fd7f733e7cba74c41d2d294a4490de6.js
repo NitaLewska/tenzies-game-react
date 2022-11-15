@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "842e332ad4f72ce9c70b",
-    "url": "/tenzies-game-react/static/css/main.26622027.chunk.css"
+    "revision": "93548fc40bd4edd2f786",
+    "url": "/tenzies-game-react/static/css/main.660f647d.chunk.css"
   },
   {
-    "revision": "842e332ad4f72ce9c70b",
-    "url": "/tenzies-game-react/static/js/main.d6219f3d.chunk.js"
+    "revision": "93548fc40bd4edd2f786",
+    "url": "/tenzies-game-react/static/js/main.4fc39a2e.chunk.js"
   },
   {
     "revision": "704c69b3bd2767a3b8e0",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tenzies-game-react/static/js/2.0b81b788.chunk.js"
   },
   {
-    "revision": "ef629e64c60b67db0ecfd97ca3f810fa",
+    "revision": "deecb7b3f12adb6e0f21ed4de81e2795",
     "url": "/tenzies-game-react/index.html"
   }
 ];

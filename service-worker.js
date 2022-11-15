@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tenzies-game-react/precache-manifest.944059cbfaeca6f6143e09f0a6b4ff87.js"
+  "/tenzies-game-react/precache-manifest.4fd7f733e7cba74c41d2d294a4490de6.js"
 );
 
 workbox.clientsClaim();
